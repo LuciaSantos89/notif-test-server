@@ -1,4 +1,4 @@
-application: notif-test-999
+application: notif-test-server
 version: 1
 runtime: python27
 threadsafe: true
