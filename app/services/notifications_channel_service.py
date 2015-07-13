@@ -2,8 +2,6 @@ import uuid
 import logging
 from protorpc import messages
 from ferris3 import Service, hvild, auto_service, auto_method
-from app.models.data import Data
-from app.models.database import session
 from google.appengine.api import channel
 
 
